@@ -18,7 +18,7 @@
 
     <properties>
         <!--<jetty.version>8.1.11.v20130520</jetty.version>-->
-        <jetty.version>9.2.5.v20141112</jetty.version>
+        <jetty.version>9.4.22.v20191022</jetty.version>
         <spring.version>3.2.3.RELEASE</spring.version>
     </properties>
 
